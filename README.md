@@ -8,13 +8,13 @@ This GitHub is where I share my journey — whether it's low-level embedded syst
 
 ## 🔧 Technical Skills & Tools
 
-| Skill / Tool      | Proficiency | Notes |
-|-------------------|-------------|-------|
-| **C++**           | ⭐⭐⭐⭐☆ 90%   | OOP, STL, currently diving into Data Structures & Algorithms 🚀 |
-| **Python**        | ⭐⭐⭐⭐☆ 80%   | ML, data science, and fun with NumPy & pandas 🐍 |
-| **Matlab**        | ⭐⭐⭐☆☆ 70%   | Math modeling, simulations, and signal processing |
-| **Circuit Analysis** | ⭐⭐⭐⭐☆ 88% | Deep understanding of real-world electrical systems 🔋 |
-| **LTSpice**       | ⭐⭐⭐☆☆ 70%   | Simulating analog circuits 🔄 |
+| Skill / Tool      | Notes |
+|-------------------|-------|
+| **C++**           | OOP, STL, currently diving into Data Structures & Algorithms 🚀 |
+| **Python**        | ML, data science, and fun with NumPy & pandas 🐍 |
+| **Matlab**        | Math modeling, simulations, and matrix |
+| **Circuit Analysis** | Deep understanding of real-world electrical systems 🔋 |
+| **LTSpice**       | Simulating analog circuits 🔄 |
 
 ---
 
