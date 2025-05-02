@@ -10,11 +10,11 @@ This GitHub is where I share my journey — whether it's low-level embedded syst
 
 | Skill / Tool      | Notes |
 |-------------------|-------|
-| **C++**           | OOP, STL, currently diving into Data Structures & Algorithms 🚀 |
-| **Python**        | ML, data science, and fun with NumPy & pandas 🐍 |
+| **C++**           | OOP, STL, currently diving into Data Structures & Algorithms |
+| **Python**        | ML, data science, and fun with NumPy & pandas |
 | **Matlab**        | Math modeling, simulations, and matrix |
-| **Circuit Analysis** | Deep understanding of real-world electrical systems 🔋 |
-| **LTSpice**       | Simulating analog circuits 🔄 |
+| **Circuit Analysis** | Deep understanding of real-world electrical systems |
+| **LTSpice**       | Simulating analog circuits |
 
 ---
 
