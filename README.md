@@ -31,11 +31,6 @@ Circuit analysis and simulation using tools like LTSpice and practical breadboar
 
 ---
 
-## 🧠 Fun Fact
-I once wrote a 4000-word Extended Essay on **Parkinson's Disease detection through voice analysis** using AI — and yes, it made me fall even deeper in love with engineering and innovation! 💡
-
----
-
 ## 📫 Let’s Connect!
 
 Feel free to explore my repos, leave feedback, or reach out — I’m always excited to learn, collaborate, and build something awesome together.
