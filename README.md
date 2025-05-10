@@ -18,7 +18,7 @@ This GitHub is where I share my journey — whether it's low-level embedded syst
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What Build
 
 🛠️ **Embedded Projects**  
 Working on microcontroller-based systems that merge C++ logic with real-world inputs.
