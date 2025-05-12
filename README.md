@@ -57,6 +57,4 @@
   </a>
 </p>
 
----
 
-> *"Engineering is the art of turning imagination into reality — one line of code at a time."*
