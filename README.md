@@ -50,7 +50,7 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="mailto:a.erkhembileg9@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px;" />
+    <img src="https://img.shields.io/badge/a.erkhembileg9@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px;" />
   </a>
   <a href="https://utah.joinhandshake.com/profiles/xzc5ut" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Handshake-34D399?style=flat&logo=handshake&logoColor=white" alt="Handshake" style="height: 28px;" />
