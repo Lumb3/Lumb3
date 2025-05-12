@@ -35,10 +35,10 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_logo.svg/512px-Matlab_logo.svg.png" alt="matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_logo.svg" alt="matlab" width="40" height="40"/>
   </a>
   <a href="https://www.ltspice.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/LTSpice_Logo.png" alt="ltspice" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LTSpice_logo.svg/200px-LTSpice_logo.svg.png" alt="ltspice" width="40" height="40"/>
   </a>
 </p>
 
