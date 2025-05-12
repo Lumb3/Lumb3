@@ -34,6 +34,12 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_logo.svg/512px-Matlab_logo.svg.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.ltspice.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/LTSpice_Logo.png" alt="ltspice" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -57,4 +63,3 @@
     <img src="https://img.shields.io/badge/Handshake-34D399?style=flat&logo=handshake&logoColor=white" alt="Handshake" style="height: 28px;" />
   </a>
 </p>
-
