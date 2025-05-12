@@ -1,40 +1,63 @@
-# 👋 Hello there! I'm Erkhembileg
-
-🎓 I'm a Computer Engineering student at the **University of Utah** with a big passion for connecting **hardware** and **software** into something meaningful. From crafting AI models to analyzing electrical circuits, I love bringing ideas to life through logic and creativity.
-
-This GitHub is where I share my journey — whether it's low-level embedded systems, hands-on circuit simulations, or machine learning experiments. I believe in learning by building, and that's exactly what you'll find here. 👨‍💻⚡
+<h1 align="center">👋 Hi there, I'm Erkhembileg</h1>
+<h3 align="center">A computer engineering student from Mongolia</h3>
 
 ---
 
-## 🔧 Technical Skills & Tools
+## 💡 About Me
 
-| Skill / Tool      | Notes |
-|-------------------|-------|
-| **C++**           | OOP, STL, currently diving into Data Structures & Algorithms |
-| **Python**        | ML, data science, and fun with NumPy & pandas |
-| **Matlab**        | Math modeling, simulations, and matrix |
-| **Circuit Analysis** | Deep understanding of real-world electrical systems |
-| **LTSpice**       | Simulating analog circuits |
+🎓 I'm a Computer Engineering student at the **University of Utah**, passionate about building meaningful connections between **hardware** and **software**.
+
+💻 Low-level embedded systems, circuit simulations, and machine learning models are my key interests.
+
+🔍 My projects often explore microcontroller programming, circuit design, and machine learning experiments — all documented right here on GitHub.
 
 ---
 
-## 🚀 What Build
+## 🔧 Languages and Tools
 
-🛠️ **Embedded Projects**  
-Working on microcontroller-based systems that merge C++ logic with real-world inputs.
-
-🤖 **Machine Learning Models**  
-Experimenting with supervised and unsupervised learning — from classification to voice-based AI diagnostics.
-
-🔌 **Hardware Design**  
-Circuit analysis and simulation using tools like LTSpice and practical breadboarding.
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Let’s Connect!
+## ⚙️ What I Build
 
-Feel free to explore my repos, leave feedback, or reach out — I’m always excited to learn, collaborate, and build something awesome together.
+- 🛠 **Embedded Projects** – Microcontroller-based systems using Arduino and C++
+- 🤖 **Machine Learning** – Supervised & unsupervised learning using Python libraries like scikit-learn, pandas, and seaborn
+- 🔌 **Circuit Simulations** – Analog and digital design using LTSpice and breadboarding
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 > *"Engineering is the art of turning imagination into reality — one line of code at a time."*
-
----
