@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Erkhembileg</h1>
-<h3 align="center">A computer engineering student from Mongolia</h3>
+<h3 align="center">A passionate embedded systems developer from Mongolia</h3>
 
 ---
 
@@ -7,9 +7,9 @@
 
 🎓 I'm a Computer Engineering student at the **University of Utah**, passionate about building meaningful connections between **hardware** and **software**.
 
-💻 Low-level embedded systems, circuit simulations, and machine learning models are my key interests.
+💻 From low-level embedded systems to machine learning models and circuit simulations, I love solving problems through code, logic, and creativity.
 
-🔍 My projects often explore microcontroller programming, circuit design, and machine learning experiments — all documented right here on GitHub.
+🔍 My projects explore microcontroller programming, circuit design, and AI-based diagnostics — all documented right here on GitHub.
 
 ---
 
@@ -42,19 +42,18 @@
 
 - 🛠 **Embedded Projects** – Microcontroller-based systems using Arduino and C++
 - 🤖 **Machine Learning** – Supervised & unsupervised learning using Python libraries like scikit-learn, pandas, and seaborn
-- 🔌 **Circuit Simulations** – Analog and digital design using LTSpice and breadboarding
-
+- 🔌 **Circuit Simulations** – Analog and digital design using LTSpice and practical breadboarding
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="a.erkhembileg9@gmail.com">
+  <a href="mailto:a.erkhembileg9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://utah.joinhandshake.com/profiles/xzc5ut" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Handshake-0A66C2?style=flat&logo=Handshake&logoColor=white" alt="Handshake"/>
   </a>
 </p>
 
