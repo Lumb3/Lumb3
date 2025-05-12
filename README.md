@@ -44,7 +44,7 @@
 - 🛠 **Embedded Projects** – Microcontroller-based systems using Arduino and C++
 - 🤖 **Machine Learning** – Supervised & unsupervised learning using Python libraries like scikit-learn, pandas, and seaborn
 - 🔌 **Circuit Simulations** – Analog and digital design using LTSpice and breadboarding
-- 🌐 **Frontend Apps** – Clean and responsive web interfaces
+
 
 ---
 
