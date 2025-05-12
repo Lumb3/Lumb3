@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Erkhembileg</h1>
-<h3 align="center">A passionate frontend & embedded systems developer from Mongolia</h3>
+<h3 align="center">A computer engineering student from Mongolia</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎓 I'm a Computer Engineering student at the **University of Utah**, passionate about building meaningful connections between **hardware** and **software**.
 
-💻 From low-level embedded systems to sleek frontend interfaces, and from circuit simulations to machine learning models, I love solving problems through code, logic, and creativity.
+💻 Low-level embedded systems, from circuit simulations, and machine learning models, are my key interests. I love solving problems through code, logic, and creativity.
 
 🔍 My projects often explore microcontroller programming, circuit design, and machine learning experiments — all documented right here on GitHub.
 
@@ -16,14 +16,25 @@
 ## 🔧 Languages and Tools
 
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Arduino</a> |
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">C++</a> |
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a> |
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a> |
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">Scikit-learn</a> |
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">Seaborn</a> |
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">MATLAB</a> |
-  <a href="https://www.ltspice.com/" target="_blank" rel="noreferrer">LTSpice</a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <span>MATLAB</span> | <span>LTSpice</span>
 </p>
 
 ---
