@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://utah.joinhandshake.com/profiles/xzc5ut" target="_blank">
-    <img src="https://img.shields.io/badge/Handshake-FBBF24?style=flat&logo=handshake&logoColor=white" alt="Handshake"/>
+  <img src="https://img.shields.io/badge/Handshake-34D399?style=flat&logo=handshake&logoColor=white" alt="Handshake"/>
   </a>
 </p>
 
