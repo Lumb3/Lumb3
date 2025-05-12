@@ -50,10 +50,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:a.erkhembileg9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+  <a href="https://utah.joinhandshake.com/profiles/xzc5ut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
