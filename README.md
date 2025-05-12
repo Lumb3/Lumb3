@@ -1,61 +1,41 @@
-<h1 align="center">👋 Hi there, I'm Erkhembileg</h1>
-<h3 align="center">A passionate embedded systems developer from Mongolia</h3>
+# 👋 Hi there, I'm Erkhembileg
 
----
+🎓 I'm a **Computer Engineering** student at the **University of Utah** with a passion for integrating **hardware** and **software** into meaningful projects. Whether it's developing AI models, analyzing electrical circuits, or simulating systems, I enjoy turning ideas into reality through creativity and logic.
 
-## 💡 About Me
-
-🎓 I'm a Computer Engineering student at the **University of Utah**, passionate about building meaningful connections between **hardware** and **software**.
-
-💻 From low-level embedded systems to machine learning models and circuit simulations, I love solving problems through code, logic, and creativity.
-
-🔍 My projects explore microcontroller programming, circuit design, and AI-based diagnostics — all documented right here on GitHub.
-
----
-
-## 🔧 Languages and Tools
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## ⚙️ What I Build
-
-- 🛠 **Embedded Projects** – Microcontroller-based systems using Arduino and C++
-- 🤖 **Machine Learning** – Supervised & unsupervised learning using Python libraries like scikit-learn, pandas, and seaborn
-- 🔌 **Circuit Simulations** – Analog and digital design using LTSpice and practical breadboarding
+This GitHub is where I share my journey — from low-level embedded systems to machine learning and hands-on circuit design. 🚀
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="mailto:a.erkhembileg9@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/a.erkhembileg9@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px;" />
-  </a>
-  <a href="https://utah.joinhandshake.com/profiles/xzc5ut" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Handshake-34D399?style=flat&logo=handshake&logoColor=white" alt="Handshake" style="height: 28px;" />
-  </a>
-</p>
+**📧 Email:** [a.erkhembileg9@gmail.com](mailto:a.erkhembileg9@gmail.com)
 
+**🤝 Handshake:** [Visit My Profile](https://utah.joinhandshake.com/profiles/xzc5ut)
 
+---
 
+## 🔧 Technical Skills & Tools
+
+| Skill / Tool         | Notes                                                        |
+|----------------------|--------------------------------------------------------------|
+| **C++**              | OOP, STL, currently diving into Data Structures & Algorithms |
+| **Python**           | ML, data science, and fun with NumPy & pandas               |
+| **MATLAB**           | Math modeling, simulations, matrix manipulations             |
+| **LTSpice**          | Simulating and analyzing analog circuits                     |
+| **Circuit Analysis** | Deep understanding of real-world electrical systems          |
+| **Arduino**          | Hands-on experience with microcontroller-based systems       |
+
+---
+
+## 🚀 What I'm Working On
+
+🛠️ **Embedded Projects**  
+Developing microcontroller-based systems that integrate C++ logic with real-world inputs.
+
+🤖 **Machine Learning Models**  
+Exploring supervised and unsupervised learning, particularly for applications like voice-based AI diagnostics.
+
+🔌 **Circuit Design & Simulation**  
+Designing and analyzing circuits with tools like LTSpice and MATLAB to simulate and refine electrical systems.
+
+---
