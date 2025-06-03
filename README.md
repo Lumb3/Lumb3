@@ -14,14 +14,15 @@ I'm a computer engineering student from Mongolia, passionate about bridging hard
 - **Languages:** C++, Python, MATLAB
 - **Hardware:** Arduino, LTSpice, Breadboards
 - **ML/Tools:** Pandas, Scikit-learn, Seaborn
-
+- **Current Focus:** Tensorflow, Flask
 ---
 
 ### Projects I Work On
 
 - Microcontroller-based embedded systems  
 - Circuit design and simulation  
-- Machine learning experiments with Python  
+- Developing machine learning and deep learning models
+- Continuously learning and applying industry-standard ML libraries
 
 ---
 
