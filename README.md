@@ -1,32 +1,33 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center">Computer Engineering Student @ University of Utah</h3>
+<h3 align="center">Sophomore Computer Engineering Student @ University of Utah</h3>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a computer engineering student from Mongolia, passionate about bridging hardware and software. I enjoy working with embedded systems, circuit simulations, and applying machine learning to solve real-world problems.
+I'm a sophomore Computer Engineering student at the University of Utah Asia Campus, passionate about building real-world hardware and software projects. I enjoy working with embedded systems, simulating circuits, and applying machine learning models to solve practical problems.
 
 ---
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 
-- **Languages:** C++, Python, MATLAB
-- **Hardware:** Arduino, LTSpice, Breadboards
-- **ML/Tools:** Pandas, Scikit-learn, Seaborn
-- **Current Focus:** Tensorflow, Flask
+- **Languages:** C++, Python, MATLAB  
+- **Hardware & Simulation:** Arduino, LTSpice, Breadboards  
+- **Machine Learning & Tools:** Pandas, Scikit-learn, Seaborn  
+- **Currently Learning:** TensorFlow, wxWidgets  
+
 ---
 
-### Projects I Work On
+### 🚀 Projects I Work On
 
 - Microcontroller-based embedded systems  
 - Circuit design and simulation  
-- Developing machine learning and deep learning models
-- Continuously learning and applying industry-standard ML libraries
+- Machine learning and deep learning model development  
+- Exploring industry-standard ML libraries and deployment methods  
 
 ---
 
-### Contact
+### 📫 Contact Me
 
-📧 [a.erkhembileg9@gmail.com](mailto:a.erkhembileg9@gmail.com)  
-🤝 [Handshake Profile](https://utah.joinhandshake.com/profiles/xzc5ut)
+- 📧 Email: [a.erkhembileg9@gmail.com](mailto:a.erkhembileg9@gmail.com)  
+- 🤝 Handshake: [Visit My Profile](https://utah.joinhandshake.com/profiles/xzc5ut)
