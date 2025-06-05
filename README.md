@@ -14,7 +14,7 @@ I'm a sophomore Computer Engineering student at the University of Utah Asia Camp
 - **Languages:** C++, Python, MATLAB  
 - **Hardware & Simulation:** Arduino, LTSpice, Breadboards  
 - **Machine Learning & Tools:** Pandas, Scikit-learn, Seaborn  
-- **Currently Learning:** TensorFlow, wxWidgets  
+- **Currently Learning:** TensorFlow, wxWidgets (for desktop application development in C++)
 
 ---
 
