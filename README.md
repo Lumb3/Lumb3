@@ -17,16 +17,38 @@ I'm a sophomore Computer Engineering student at the University of Utah Asia Camp
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-- **Languages:** C++, Python, MATLAB  
-- **Hardware & Simulation:** Arduino, LTSpice, Breadboards  
-- **Machine Learning & Tools:** Pandas, Scikit-learn, Seaborn  
-- **Currently Learning:** TensorFlow, wxWidgets (for desktop application development in C++)
+**Languages:**  
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+</p>
+
+**Hardware & Simulation:**  
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Breadboard-555555?style=for-the-badge"/>
+</p>
+
+**Machine Learning & Tools:**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Seaborn-2E75B6?style=for-the-badge"/>
+</p>
+
+**Currently Learning:**  
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/wxWidgets-0C0C0C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 ---
 
 ### 📫 Contact Me
 
 - 📧 Email: [a.erkhembileg9@gmail.com](mailto:a.erkhembileg9@gmail.com)  
-- 🤝 Handshake: [Visit My Profile](https://utah.joinhandshake.com/profiles/xzc5ut)
+- 🤝 Handshake: [Visit My Profile](https://utah.joinhandshake.com/profiles/xzc5ut)  
