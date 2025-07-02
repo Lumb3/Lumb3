@@ -8,7 +8,7 @@ I'm a sophomore Computer Engineering student at the University of Utah Asia Camp
 
 ---
 
-### 🚀 Projects I Work On
+### 🚀 What I am up to
 
 - Microcontroller-based embedded systems  
 - Circuit design and simulation  
