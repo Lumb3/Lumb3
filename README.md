@@ -13,7 +13,7 @@ I'm a sophomore Computer Engineering student at the University of Utah Asia Camp
 - Microcontroller-based embedded systems  
 - Circuit design and simulation  
 - Machine learning and deep learning model development  
-- Exploring industry-standard ML libraries and deployment methods  
+- Web apps, Chrome extensions, and software development
 
 ---
 
