@@ -1,29 +1,31 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center">Practical solutions. Everyday impact.</h3>
+<h3 align="center">Turning ideas into practical solutions ⚡ | Everyday impact through tech</h3>
 
 ---
 
 ### 👨‍💻 About Me
-Sophomore Computer Engineering student at University of Utah Asia Campus. Passionate about **hardware + software projects** that solve real problems.  
+Sophomore **Computer Engineering** student at University of Utah Asia Campus.  
+Obsessed with **solving everyday problems** using a mix of **hardware circuits + software intelligence**.  
+I love experimenting with microcontrollers, building ML models, and making tech *actually useful*.
 
 ---
 
 <div align="center">
 
-### ⚡ Focus Areas
+### 🔧 Focus Areas
 
 | **Hardware & Embedded** | **Software & ML** |
 |-------------------------|------------------|
-| Microcontrollers | Desktop & Web Apps |
-| Circuit Simulation | Chrome Extensions |
-| Arduino & Breadboard | ML/DL Models |
-| LTSpice | Python Data Analysis |
+| Microcontrollers & Sensors | Desktop & Web Apps |
+| Circuit Simulation & LTSpice | Chrome Extensions & Automation |
+| Arduino & Breadboards | Python Data Analysis |
+| Electronics Prototyping | ML/DL Models |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Playground
 
 #### Hardware & Simulation
 <p>
@@ -51,7 +53,7 @@ Sophomore Computer Engineering student at University of Utah Asia Campus. Passio
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-#### Currently Learning
+#### Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/wxWidgets-0C0C0C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -59,6 +61,12 @@ Sophomore Computer Engineering student at University of Utah Asia Campus. Passio
 
 ---
 
-### 📫 Contact
+### 📫 Connect with Me
 - 📧 [Email](mailto:a.erkhembileg9@gmail.com)  
-- 🤝 [Handshake](https://utah.joinhandshake.com/profiles/xzc5ut)
+- 🤝 [Handshake](https://utah.joinhandshake.com/profiles/xzc5ut)  
+
+---
+
+<div align="center">
+  <p>“Tech isn’t just code or circuits — it’s turning ideas into impact.”</p>
+</div>
