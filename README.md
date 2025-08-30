@@ -31,7 +31,6 @@ I love experimenting with microcontrollers, building ML models, and making tech 
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
   <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Breadboard-555555?style=for-the-badge"/>
 </p>
 
 #### Programming & Web
