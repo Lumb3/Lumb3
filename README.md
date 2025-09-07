@@ -28,7 +28,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 ### 🛠️ Tech Playground
 
 #### Hardware & Simulation
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3)](https://github.com/anuraghazra/github-readme-stats)
+<p> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> </p>
 
 #### Programming & Tools
 <p>
@@ -52,8 +52,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkhembileg9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lumb3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
