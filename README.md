@@ -51,6 +51,16 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 </p>
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erkhembileg9&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkhembileg9&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</div>
+
+---
 
 ### 📫 Connect with Me
 - 📧 [Email](mailto:a.erkhembileg9@gmail.com)  
