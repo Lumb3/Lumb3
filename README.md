@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center">Turning ideas into practical solutions ⚡ | Everyday impact through tech</h3>
+<h3 align="center">Turning ideas into practical solutions ⚡ </h3>
 
 ---
 
