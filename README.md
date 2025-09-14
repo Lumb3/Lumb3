@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center">Turning ideas into practical solutions ⚡ </h3>
+<h3 align="center">Turning ideas into practical solutions ⚡</h3>
 
 ---
 
@@ -10,25 +10,23 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 
 ---
 
-<div align="center">
-
 ### 🔧 Focus Areas
 
-| **Hardware & Embedded** | **Software & ML** |
-|-------------------------|------------------|
-| Microcontrollers & Sensors | Desktop & Web Apps |
-| Circuit Simulation & LTSpice | Chrome Extensions & Automation |
-| Arduino & Breadboards |
-| Electronics Prototyping |
-
-</div>
+| **Hardware & Embedded**        | **Software & ML**              |
+|--------------------------------|--------------------------------|
+| Microcontrollers & Sensors     | Desktop & Web Apps             |
+| Circuit Simulation & LTSpice   | Chrome Extensions & Websites   |
+| Arduino & Breadboards           | CI/CD Pipeline                 |
 
 ---
 
 ### 🛠️ Tech Playground
 
 #### Hardware & Simulation
-<p> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> </p>
+<p> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
+</p>
 
 #### Programming
 <p>
@@ -53,10 +51,8 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 </p>
 
 ---
----
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumb3&theme=tokyonight" alt="GitHub Streak" height="160"/>
