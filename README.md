@@ -55,7 +55,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lumb3)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </div>
 
