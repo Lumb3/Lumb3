@@ -57,15 +57,20 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="Github Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Lumb3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
-https://github.com/Lumb3/Lumb3/blob/output/github-contribution-grid-snake.svg 
 ---
 
-### 📫 Connect with Me
-- 📧 [Email](mailto:a.erkhembileg9@gmail.com)  
-- 🤝 [Handshake](https://utah.joinhandshake.com/profiles/xzc5ut)  
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Lumb3/Lumb3/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.erkhembileg9@gmail.com)  
+[![Handshake](https://img.shields.io/badge/Handshake-00457C?style=for-the-badge&logo=handshake&logoColor=white)](https://utah.joinhandshake.com/profiles/xzc5ut)
 
 ---
 
