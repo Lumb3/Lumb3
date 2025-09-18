@@ -58,11 +58,9 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="Github Streak" height="160"/>
-  <img src="https://komarev.com/ghpvc/?username=Lumb3&color=blueviolet" alt="Visits" height="160"/>
-  
 </div>
 
-
+https://github.com/Lumb3/Lumb3/blob/output/github-contribution-grid-snake.svg 
 ---
 
 ### 📫 Connect with Me
