@@ -52,11 +52,14 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 
 ---
 
+
 ## 📊 GitHub Stats
 
 ![Lumb3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Lumb3&theme=radical&hide_border=false)
 
 
 ---
