@@ -64,8 +64,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 ---
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.erkhembileg9@gmail.com)  
-✉️ a.erkhembileg9@gmail.com  
+[![Email](https://img.shields.io/badge/a.erkhembileg9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.erkhembileg9@gmail.com)
 [![Handshake](https://img.shields.io/badge/Handshake-00457C?style=for-the-badge&logo=handshake&logoColor=white)](https://utah.joinhandshake.com/profiles/xzc5ut)
 
 ---
