@@ -28,7 +28,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
   <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
 </p>
 
-#### Programming
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
