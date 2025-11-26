@@ -10,14 +10,13 @@ I enjoy **solving everyday problems** using a mix of **hardware circuits + softw
 
 ---
 
-### 🔧 Focus Areas
+### 🔧 What I Work On
 
-| **Hardware & Embedded**        | **Software & ML**              |
-|--------------------------------|--------------------------------|
-| Microcontrollers & Sensors     | Desktop & Web Apps             |
-| Circuit Simulation & LTSpice   | Chrome Extensions & Websites   |
-| Arduino & Breadboards           | CI/CD Pipeline                 |
+1. Hardware prototyping with microcontrollers
 
+2. Building small tools and automations for real users
+
+3. Web apps, desktop apps, and workflow pipelines
 ---
 
 ### 🛠️ Tech Playground
