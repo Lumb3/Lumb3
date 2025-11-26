@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center">Turning ideas into practical solutions ⚡</h3>
+<h3 align="center"> Computer Engineering BS @ University of Utah | Full-Stack Developer | 1 yr in JavaScript, Node.js & C++ | Built tools used by 30+ students on campus ⚡</h3>
 
 ---
 
 ### 👨‍💻 About Me
-Sophomore **Computer Engineering** student at University of Utah Asia Campus.  
-Obsessed with **solving everyday problems** using a mix of **hardware circuits + software intelligence**.  
+I am a sophomore **Computer Engineering** student at University of Utah Asia Campus. 
+I enjoy **solving everyday problems** using a mix of **hardware circuits + software intelligence**.  
 I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful*.
 
 ---
@@ -26,6 +26,7 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 <p> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
   <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
 
 #### Programming Languages
