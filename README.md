@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center"> Computer Engineering BS @ University of Utah | Full-Stack Developer | 1 yr in JavaScript, Node.js & C++ | Built tools used by 30+ students on campus ⚡</h3>
+<h3 align="center"> Computer Engineering BS at University of Utah Asia Campus</h3>
+<h4 align="center">Full-Stack Developer | 1 yr in JavaScript, Node.js & C++ | Built tools used by 30+ students on campus </h4>
 
 ---
 
 ### 👨‍💻 About Me
 I am a sophomore **Computer Engineering** student at University of Utah Asia Campus. 
-I enjoy **solving everyday problems** using a mix of **hardware circuits + software intelligence**.  
-I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful*.
+I enjoy **solving everyday problems** using a mix of **hardware circuits + software intelligence**. I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful*.
 
 ---
 
@@ -58,7 +58,6 @@ I love experimenting with microcontrollers, building CI/CD pipelines, and making
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lumb3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
