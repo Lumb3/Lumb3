@@ -43,13 +43,6 @@ I enjoy **solving everyday problems** using a mix of **hardware circuits + softw
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-#### Currently Exploring
-<p>
-  <img src="https://img.shields.io/badge/wxWidgets-0C0C0C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
 ---
 
 
