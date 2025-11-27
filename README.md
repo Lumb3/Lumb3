@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 I am a sophomore **Computer Engineering** student at University of Utah Asia Campus. 
-I enjoy **solving everyday problems** using a mix of **hardware circuits + software intelligence**. I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful*.
+I enjoy **solving everyday problems** through **circuits and softwares**. I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful in life*.
 
 ---
 
