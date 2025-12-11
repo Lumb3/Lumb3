@@ -1,43 +1,42 @@
-<h1 align="center">Hi, I'm Erkhembileg 👋</h1>
-<h3 align="center"> Computer Engineering BS at University of Utah Asia Campus</h3>
-<h4 align="center">Full-Stack Developer | 1 yr in JavaScript, Node.js & C++ | Built tools used by 30+ students on campus </h4>
+<h1 align="center"> ✌️ Hi, I'm Erkhembileg</h1>
+<h3 align="center">Computer Engineering @ University of Utah Asia Campus</h3>
+<h4 align="center">Full-Stack Developer & Embedded Systems Enthusiast</h4>
 
 ---
 
-### 👨‍💻 About Me
-I am a sophomore **Computer Engineering** student at University of Utah Asia Campus. 
-I enjoy **solving everyday problems** through **circuits and softwares**. I love experimenting with microcontrollers, building CI/CD pipelines, and making tech *actually useful in life*.
+### About Me
+I’m a sophomore in **Computer Engineering**, interested in work that sits at the intersection of **software and hardware**.  
+I like building things that actually get used—from small workflow tools adopted by students on campus, to microcontroller projects that blend circuits with clean software design.  
+
+My goal is simple: turn ideas into **working systems**, whether it’s a web dashboard or a sensor network held together by C++ and jumper wires.
 
 ---
 
-### 🔧 What I Work On
+### What I’m Currently Exploring
+- **Embedded design**: microcontrollers, signal flow, and rapid hardware prototyping  
+- **Full-stack development**: small web apps, automation tools, and backend services  
+- **Bridging the two worlds**: hardware-powered systems with modern software interfaces  
 
-1. Hardware prototyping with microcontrollers
-
-2. Building small tools and automations for real users
-
-3. Web apps, desktop apps, and workflow pipelines
 ---
 
-### 🛠️ Tech Playground
+### Tech Stack
 
 #### Hardware & Simulation
-<p> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/> 
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTSpice-E2231A?style=for-the-badge&logo=tex&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
 
 #### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Developer Tools
+#### Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -45,25 +44,13 @@ I enjoy **solving everyday problems** through **circuits and softwares**. I love
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lumb3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</div>
-
-
+## GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lumb3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/> </div>
 
 ---
 
-## 📫 Connect with Me
+## Connect
 [![Email](https://img.shields.io/badge/a.erkhembileg9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.erkhembileg9@gmail.com)
 [![Handshake](https://img.shields.io/badge/Handshake-00457C?style=for-the-badge&logo=handshake&logoColor=white)](https://utah.joinhandshake.com/profiles/xzc5ut)
 
 ---
-
-<div align="center">
-  <p>“Tech isn’t just code or circuits — it’s turning ideas into impact.”</p>
-</div>
