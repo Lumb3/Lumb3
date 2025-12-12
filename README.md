@@ -44,11 +44,6 @@ My goal is simple: turn ideas into **working systems**, whether it’s a web das
 
 ---
 
-## GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumb3&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> <img src="https://github-readme-stats.vercel.app/api?username=Lumb3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lumb3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/> </div>
-
----
-
 ## Connect
 [![Email](https://img.shields.io/badge/a.erkhembileg9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.erkhembileg9@gmail.com)
 [![Handshake](https://img.shields.io/badge/Handshake-00457C?style=for-the-badge&logo=handshake&logoColor=white)](https://utah.joinhandshake.com/profiles/xzc5ut)
