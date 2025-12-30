@@ -5,14 +5,14 @@
 ---
 
 ### About Me
-I’m a sophomore in **Computer Engineering**, interested in work that sits at the intersection of **software and hardware**.  
-I like building things that actually get used—from small workflow tools adopted by students on campus, to microcontroller projects that blend circuits with clean software design.  
+I’m a sophomore in **Computer Engineering**, interested in working with **software and hardware** systems.
+I like building things that actually get used—from small workflow tools to microcontroller projects that blend circuits with clean software design.  
 
-My goal is simple: turn ideas into **working systems**, whether it’s a web dashboard or a sensor network held together by C++ and jumper wires.
+My goal is simple: turn ideas into **working systems**
 
 ---
 
-### What I’m Currently Exploring
+### What I’m Currently Working on
 - **Embedded design**: microcontrollers, signal flow, and rapid hardware prototyping  
 - **Full-stack development**: small web apps, automation tools, and backend services  
 - **Bridging the two worlds**: hardware-powered systems with modern software interfaces  
