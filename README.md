@@ -4,12 +4,6 @@
   Full-Stack + Embedded Systems
 </p>
 
-<p align="center">
-  <a href="mailto:a.erkhembileg9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## Focus
