@@ -1,7 +1,7 @@
 <h1 align="center">Erkhembileg Ariunbold</h1>
 
 <p align="center">
-  Computer Engineering @ University of Utah Asia Campus<br/>
+  Computer Engineering @ University of Utah <br/>
   Full-Stack Software Engineer
 </p>
 
@@ -9,9 +9,9 @@
 
 ## About Me
 
-I build full-stack applications with clean backend architecture, practical frontend interfaces, and reliable data persistence.
+I am a full-stack software engineering intern at **Unitel LLC – CORE Development Team**, where I work on React front-end development and Java backend services using Quarkus framework.
 
-Currently focused on backend development, REST APIs, desktop/web applications, and software systems that are simple, scalable, and useful.
+My current work focuses on building RESTful API endpoints, connecting frontend interfaces with backend systems, and developing practical software that is clean, scalable, and useful.
 
 ---
 
@@ -26,7 +26,7 @@ Currently focused on backend development, REST APIs, desktop/web applications, a
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring,quarkus,nodejs,dotnet" />
 </p>
 
 ### Frontend, Desktop & Tools
@@ -42,20 +42,10 @@ Currently focused on backend development, REST APIs, desktop/web applications, a
 </p>
 
 ---
-
-## Current Focus
-
-- Full-stack web development
-- Java backend development with Spring Boot and Quarkus
-- RESTful API design
-- PostgreSQL-backed applications
-- Clean, maintainable software architecture
-
----
-
-## Featured Work
+## Featured Works
 
 - Chrome extensions for productivity and browser session management
 - Electron desktop applications with local and cloud-backed storage
 - Java backend services for document processing and structured data extraction
 - Machine learning research using Python and supervised classification models
+
