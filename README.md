@@ -26,7 +26,7 @@ My current work focuses on building RESTful API endpoints, connecting frontend i
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,quarkus,nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet" />
 </p>
 
 ### Frontend, Desktop & Tools
