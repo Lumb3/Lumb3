@@ -1,35 +1,61 @@
-<h1 align="center">Erkhembileg</h1>
+<h1 align="center">Erkhembileg Ariunbold</h1>
+
 <p align="center">
   Computer Engineering @ University of Utah Asia Campus<br/>
-  Full-Stack + Embedded Systems
+  Full-Stack Software Engineer
 </p>
 
 ---
 
-## Focus
-- Build practical systems that connect hardware and software
-- Prototype fast, then harden for real use
-- Prefer clear architecture over feature bloat
+## About Me
 
-## Current Work
-- Embedded prototyping (MCUs, signal flow, hardware iteration)
-- Web tools and backend automation
-- Hardware-backed software interfaces
+I build full-stack applications with clean backend architecture, practical frontend interfaces, and reliable data persistence.
 
-## Stack
+Currently focused on backend development, REST APIs, desktop/web applications, and software systems that are simple, scalable, and useful.
 
-### Embedded / Simulation
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab"/>
-</p>
+---
+
+## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,cs"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,ts,bash" />
 </p>
 
-### Tools / Frameworks / Library
+### Backend & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,dotnet,nodejs,react,electron"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet" />
 </p>
 
+### Frontend, Desktop & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,electron,git,github,gitlab" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+---
+
+## Current Focus
+
+- Full-stack web development
+- Java backend development with Spring Boot and Quarkus
+- RESTful API design
+- PostgreSQL-backed applications
+- Clean, maintainable software architecture
+
+---
+
+## Featured Work
+
+- Chrome extensions for productivity and browser session management
+- Electron desktop applications with local and cloud-backed storage
+- Java backend services for document processing and structured data extraction
+- Machine learning research using Python and supervised classification models
