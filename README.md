@@ -1,51 +1,15 @@
-<h1 align="center">Erkhembileg Ariunbold</h1>
+# Erkhembileg Ariunbold
 
-<p align="center">
-  Computer Engineering @ University of Utah <br/>
-  Full-Stack Software Engineer
-</p>
+I study Computer Engineering at the University of Utah and have worked as a software engineering intern on Unitel’s CORE Development Team.
 
----
+## Helping five reviewers get through 1,000+ PDFs
 
-## About Me
+A five-person team was reviewing more than 1,000 PDFs by hand. I built a pipeline that uses Tess4J OCR to extract text and Gemini to turn it into structured JSON. The team can review the extracted information without reading every document page by page.
 
-I am a full-stack software engineering intern at **Unitel LLC – CORE Development Team**, where I work on React front-end development and Java backend services using Quarkus framework.
+## What I’m building now
 
-My current work focuses on building RESTful API endpoints, connecting frontend interfaces with backend systems, and developing practical software that is clean, scalable, and useful.
+I’m building a web app for Adobe Student Ambassadors at the University of Utah so students have one place to find campus events, keep up with program news, and learn how to join.
 
----
+## What you’ll find here
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,ts,bash" />
-</p>
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet" />
-</p>
-
-### Frontend, Desktop & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,electron,git,github,gitlab" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-</p>
-
----
-## Featured Works
-
-- Chrome extensions for productivity and browser session management
-- Electron desktop applications with local and cloud-backed storage
-- Java backend services for document processing and structured data extraction
-- Machine learning research using Python and supervised classification models
-
+I share class projects, hackathon builds, and things I make on my own. That includes Chrome extensions that help you pick up a browser session where you left off, desktop apps with local and cloud storage, and experiments in supervised machine learning.
