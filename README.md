@@ -1,17 +1,19 @@
 # Erkhembileg Ariunbold
 
-I study Computer Engineering at the University of Utah and expect to graduate in Fall 2027.
+I study Computer Engineering at the University of Utah and expect to graduate in December 2027.
+
+[LinkedIn](https://www.linkedin.com/in/lumb3/) · [GitHub Foundations Certified](https://learn.microsoft.com/en-us/users/erkhembilegariunbold-3050/credentials/d33de4636afdfbf9?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Advanced React](https://www.coursera.org/account/accomplishments/verify/7A8FF4N8HWWU)
 
 ## Making 1,000+ PDFs easier to review
 
-At Unitel Group, a five-person team was reviewing PDFs page by page. I built a pipeline that uses Tess4J for OCR and Gemini to turn the extracted text into structured JSON. Reviewers can now go straight to the information they need.
+At Unitel Group, a five-person team had more than 1,000 PDFs to review by hand. I built a Java and Quarkus microservice service that extracts text with Tess4J OCR and uses Gemini to turn it into structured JSON. Reviewers can now directly start with the extracted information. I also implemented Gemini context caching to reduce redundant input processing across repeated requests.
 
-## What I’m building now
+## Building a campus hub for Adobe Student Ambassadors
 
-I’m building a web app for Adobe Student Ambassadors at the University of Utah so students have one place to find campus events, keep up with program news, and learn how to join.
+I’m building a React and TypeScript web app where University of Utah students can find Adobe events, read program updates, and apply to join. I’m using Supabase row-level security to give public visitors read-only access to event listings, with many more features in development.
 
-## What you’ll find here
+## Selected projects
 
-I share class projects, hackathon builds, and things I make on my own. That includes Chrome extensions that help you pick up a browser session where you left off, desktop apps with local and cloud storage, and experiments in supervised machine learning.
-
-linkedin: https://www.linkedin.com/in/lumb3/ 
+- **NetSentry** extracts event details from course schedule images using Spring Boot and Ollama. I’m working on sending those events to Google Calendar. [NetSentry repository](https://github.com/Lumb3/netsentry-backend-api)
+- **IdeaVault** is an Electron note-taking app that transcribes speech locally with Vosk and stores notes in Supabase. [IdeaVault repository](https://github.com/Lumb3/IdeaVault)
+- **Keeply** saves Chrome tabs in named sessions so you can pick up where you left off. I tested session storage with Vitest and a mock Chrome API. [Keeply repository](https://github.com/Lumb3/Keeply)
