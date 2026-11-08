@@ -2,7 +2,7 @@
 
 I study Computer Engineering at the University of Utah and expect to graduate in December 2027.
 
-[LinkedIn](https://www.linkedin.com/in/lumb3/) · [GitHub Foundations Certified](https://learn.microsoft.com/en-us/users/erkhembilegariunbold-3050/credentials/d33de4636afdfbf9?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Advanced React](https://www.coursera.org/account/accomplishments/verify/7A8FF4N8HWWU)
+[LinkedIn](https://www.linkedin.com/in/lumb3/)
 
 ## Making 1,000+ PDFs easier to review
 
