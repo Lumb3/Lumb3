@@ -22,6 +22,6 @@ I'm building a React and TypeScript web app where University of Utah students ca
 
 **Databases & Cloud:** PostgreSQL, Supabase, AWS (S3), Google Cloud Platform
 
-**AI Tools for Productivity & Learning:** Codex, Gemini, Ollama
+**AI Tools for Productivity & Searching for documentation:** Codex, Copilot, Gemini, Ollama
 
 **Developer Tools:** Git, Linux, Postman, Vitest
