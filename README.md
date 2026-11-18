@@ -10,7 +10,7 @@ At Unitel Group, a five-person team had more than 1,000 PDFs to review by hand. 
 
 ## Building a campus hub for Adobe Student Ambassadors
 
-I’m building a React and TypeScript web app where University of Utah students can find Adobe events, read program updates, and apply to join. 
+I’m building a React and TypeScript based web app where University of Utah students can find all of the Adobe-related events and workshops happening throughout the campus, read Ambassador program updates, and apply to become a member. 
 
 ## Selected projects
 
