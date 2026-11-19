@@ -2,7 +2,7 @@
 
 I'm studying Computer Engineering at the University of Utah and expect to graduate in December 2027.
 
-[LinkedIn](https://www.linkedin.com/in/lumb3/) | [GitHub](https://github.com/Lumb3)
+[LinkedIn](https://www.linkedin.com/in/lumb3/) 
 
 ## Making 1,000+ PDFs easier to review
 
